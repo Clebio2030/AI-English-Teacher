@@ -1,21 +1,21 @@
-/* Estilos gerais */
+
 body {
-  font-family: Arial, sans-serif; /* Fonte mais legível */
+  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
 }
 
 .chat-container {
-  max-width: 800px; /* Largura máxima para telas maiores */
+  max-width: 800px;
   margin: 20px auto;
   background-color: #fff;
-  border-radius: 10px; /* Bordas arredondadas */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .chat-header {
-  background-color: #007bff; /* Azul para o cabeçalho */
+  background-color: #007bff;
   color: #fff;
   padding: 15px;
   border-top-left-radius: 10px;
@@ -24,7 +24,7 @@ body {
 }
 
 .chat-body {
-  height: 400px; /* Ajuste a altura conforme necessário */
+  height: 400px;
   overflow-y: scroll;
   padding: 15px;
 }
@@ -38,17 +38,44 @@ body {
   padding: 10px;
   margin-bottom: 10px;
   border-radius: 5px;
-  font-size: 16px; /* Tamanho de fonte maior */
-  line-height: 1.5; /* Espaçamento entre linhas */
+  font-size: 16px;
+  line-height: 1.5;
+  position: relative;
+  animation: fadeIn 0.3s ease-in;
 }
 
 .user-message {
-  background-color: #e0e0e0;
+  background-color: #80d3ff;
   align-self: flex-end;
+  border-bottom-right-radius: 0;
+
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    right: -5px;
+    border-top: 25px solid transparent;
+    border-left: 25px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 25px solid #80d3ff;
+  }
 }
 
 .teacher-message {
-  background-color: #d0f0c0;
+  background-color: #acebc6;
+  border-bottom-left-radius: 0;
+  font-weight: 600;
+
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: -5px;
+    border-top: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-left: 5px solid transparent;
+    border-bottom: 25px solid #acebc6;
+  }
 }
 
 .chat-input {
@@ -58,25 +85,41 @@ body {
 
 #message-input {
   flex-grow: 1;
-  padding: 12px; /* Aumenta o preenchimento */
+  padding: 12px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  font-size: 16px; /* Tamanho de fonte maior */
+  font-size: 16px;
+  transition: box-shadow 0.2s ease; /* Transição para a animação da sombra */
+}
+
+#message-input:focus {
+  box-shadow: 0 0 5px #007bff; /* Sombra azul ao focar */
 }
 
 #send-button {
-  padding: 12px 20px; /* Aumenta o preenchimento */
-  background-color: #007bff; /* Azul para o botão */
+  padding: 12px 20px;
+  background-color: #007bff;
   color: #fff;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 16px; /* Tamanho de fonte maior */
+  font-size: 16px;
+  transition: transform 0.2s ease;
+}
+
+#send-button:active {
+  transform: scale(0.95);
+}
+
+/* Animação de entrada do texto */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 
 /* Responsividade */
 @media (max-width: 600px) {
   .chat-container {
-    max-width: 95%; /* Ocupa quase toda a largura da tela em dispositivos móveis */
+    max-width: 95%;
   }
 }
