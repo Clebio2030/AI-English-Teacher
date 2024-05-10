@@ -87,10 +87,10 @@ body {
 
 #send-button {
   padding: 12px 20px;
-  background-color: var(--primary-color);
-  color: #0f0e0e;
+  background-color: #6c5ae2;
+  color: #ffffff;
   border: none;
-  border-radius: px;
+  border-radius: 7px;
   cursor: pointer;
   font-size: 18px;
   transition: transform 0.2s ease;
