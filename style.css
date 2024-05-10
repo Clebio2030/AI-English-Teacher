@@ -17,7 +17,7 @@ body {
 .chat-header {
   background-color: #007bff; /* Azul para o cabeçalho */
   color: #fff;
-  padding: 15px;
+  padding: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   text-align: center;
@@ -39,27 +39,19 @@ body {
   margin-bottom: 10px;
   border-radius: 5px;
   line-height: 1.5; /* Espaçamento entre linhas */
+  animation: fadeIn 0.3s ease-in;
 }
 
 .user-message {
-  background-color: #e0e0e0;
+  background-color: #80d3ff;
   align-self: flex-end;
   border-bottom-right-radius: 0;
-
-  &::before {
-    content: "";
-    position: absolute;
-    bottom: 0px;
-    right: -5px;
-    border: 25px solid transparent;
-    border-bottom: 25px solid #80d3ff;
-  }
-
 }
 
 .teacher-message {
-  background-color: #d0f0c0;
-}
+  background-color: #acebc6;
+  border-bottom-left-radius: 0;
+  font-weight: 600;}
 
 .chat-input {
   padding: 20px; 
@@ -88,7 +80,19 @@ body {
   border-radius: 5px;
   cursor: pointer;
   font-size: 16px;
+  transition: transform 0.2s ease;
 }
+
+#send-button:active {
+  transform: scale(0.95);
+}
+
+/* Animação de entrada do texto */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
 
 /* Responsividade */
 @media (max-width: 600px) {
