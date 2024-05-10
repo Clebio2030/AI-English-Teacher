@@ -1,8 +1,8 @@
-**Converse com  uma professora de inglês que te ensina com músicas. Você irá aprender de um jeito muito divertido e prático. Acesse o site agora mesmo e aprendar inglês com música.**
+**Converse com  uma professora de inglês que te ensina com músicas. Você irá aprender de um jeito muito divertido e prático. Acesse o site agora mesmo e aprendar inglês com música.** :musical_note: :notes:
 
-Você quer aprender inglês? Ainda tem dificuldade ou não consegue se adaptar a esse chato e metódico de aprender inglês? Com-certeza, né? Esse projeto traz uma professora de inglês com inteligência artificial capaz de ajudar você no aprendizado de inglês com música.
+Você quer aprender inglês? Ainda tem dificuldade ou não consegue se adaptar a esse chato e metódico de aprender inglês? Com-certeza, né? Esse projeto traz uma professora de inglês com inteligência artificial capaz de ajudar você no aprendizado de inglês com música. :v:
 
-*Acesse o link para aprender:* https://ai-english-teacher-liard.vercel.app/
+*Acesse o link para aprender: :star:* https://ai-english-teacher-liard.vercel.app/
 
 **1- Mensagem inicial de boas da nossa professora Mari.**
 
