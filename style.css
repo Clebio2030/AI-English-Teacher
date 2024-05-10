@@ -17,7 +17,7 @@ body {
 .chat-header {
   background-color: #007bff;
   color: #fff;
-  padding: 15px;
+  padding: 10px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   text-align: center;
@@ -54,9 +54,7 @@ body {
     position: absolute;
     bottom: 0px;
     right: -5px;
-    border-top: 25px solid transparent;
-    border-left: 25px solid transparent;
-    border-right: 5px solid transparent;
+    border: 25px solid transparent;
     border-bottom: 25px solid #80d3ff;
   }
 }
@@ -71,15 +69,13 @@ body {
     position: absolute;
     bottom: 0px;
     left: -5px;
-    border-top: 25px solid transparent;
-    border-right: 25px solid transparent;
+    border: 25px solid transparent;
     border-left: 5px solid transparent;
-    border-bottom: 25px solid #acebc6;
   }
 }
 
 .chat-input {
-  padding: 15px;
+  padding: 50px 20px 20px 20px;
   display: flex;
 }
 
