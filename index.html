@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat de Música com Professora (IA)</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Import Map para a biblioteca @google/generative-ai -->
+  <script type="importmap">
+    {
+      "imports": {
+        "@google/generative-ai": "https://esm.run/@google/generative-ai"
+      }
+    }
+  </script>
+  <script type="module" src="script.js"></script> 
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      <h1>Professora de Música (IA)</h1>
+    </div>
+    <div class="chat-body">
+      <ul id="chat-messages">
+      </ul>
+    </div>
+    <div class="chat-input">
+      <input type="text" id="message-input" placeholder="Digite a música para aprender inglês...">
+      <button id="send-button">Enviar</button>
+    </div>
+  </div>
+</body>
+</html>

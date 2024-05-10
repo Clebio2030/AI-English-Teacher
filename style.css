@@ -1,0 +1,82 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif; /* Fonte mais legível */
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.chat-container {
+  max-width: 800px; /* Largura máxima para telas maiores */
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 10px; /* Bordas arredondadas */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.chat-header {
+  background-color: #007bff; /* Azul para o cabeçalho */
+  color: #fff;
+  padding: 15px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: center;
+}
+
+.chat-body {
+  height: 400px; /* Ajuste a altura conforme necessário */
+  overflow-y: scroll;
+  padding: 15px;
+}
+
+#chat-messages {
+  list-style: none;
+  padding: 0;
+}
+
+.message {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-size: 16px; /* Tamanho de fonte maior */
+  line-height: 1.5; /* Espaçamento entre linhas */
+}
+
+.user-message {
+  background-color: #e0e0e0;
+  align-self: flex-end;
+}
+
+.teacher-message {
+  background-color: #d0f0c0;
+}
+
+.chat-input {
+  padding: 15px;
+  display: flex;
+}
+
+#message-input {
+  flex-grow: 1;
+  padding: 12px; /* Aumenta o preenchimento */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px; /* Tamanho de fonte maior */
+}
+
+#send-button {
+  padding: 12px 20px; /* Aumenta o preenchimento */
+  background-color: #007bff; /* Azul para o botão */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px; /* Tamanho de fonte maior */
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+  .chat-container {
+    max-width: 95%; /* Ocupa quase toda a largura da tela em dispositivos móveis */
+  }
+}
