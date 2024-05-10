@@ -2,7 +2,7 @@
 :root {
   --primary-color: #acf9ff; /* Azul claro para usuário */
   --secondary-color: #acffcf; /* Verde claro para professor */
-  --background-color: #000000a8; /* Fundo suave */
+  --background-color: #ffe883a8; /* Fundo suave */
   --shadow-color: rgba(0, 0, 0, 0.1); /* Sombra sutil */  
   --border-radius: 10px; /* Borda arredondada padrão */
 }
@@ -12,29 +12,30 @@ body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
+  width: 100%;
   background-color: var(--background-color);
 }
 
 .chat-container {
-  max-width: 800px;
-  margin: 20px auto;
+  max-width: 98%;
+  height: 100%;
+  margin: 10px auto;
   background-color: #fff;
   border-radius: var(--border-radius);
   box-shadow: 0 0 10px var(--shadow-color);
 }
 
 .chat-header {
-  background: linear-gradient(to bottom, #002a6e, #c2e9fb);
+  background: linear-gradient(to bottom, #6c5ae2, #6c5ae2);
   color: #fff;
-  padding: 15px;
+  padding: 10px;
   border-top-left-radius: var(--border-radius);
   border-top-right-radius: var(--border-radius);
   text-align: center;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .chat-body {
-  height: 400px;
   overflow-y: scroll;
   padding: 15px;
 }
@@ -46,9 +47,9 @@ body {
 }
 
 .message {
-  padding: 12px;
+  padding: 10px;
   margin-bottom: 15px;
-  border-radius: 5px;
+  border-radius: 50px;
   line-height: 1.5;
   animation: fadeIn 0.3s ease-in;
   box-shadow: 2px 2px 5px var(--shadow-color);
@@ -66,16 +67,17 @@ body {
 }
 
 .chat-input {
-  padding: 20px;
+  padding:20px;
   display: flex;
 }
 
 #message-input {
+  margin-top: 40px;
   flex-grow: 1;
-  padding: 12px;
-  border: 1px solid #ccc;
+  padding: 10px;
+  border: 2px solid #6c5ae2;
   border-radius: 5px;
-  font-size: 16px;
+  font-size: 20px;
   transition: box-shadow 0.2s ease;
 }
 
@@ -88,11 +90,12 @@ body {
   background-color: var(--primary-color);
   color: #0f0e0e;
   border: none;
-  border-radius: 5px;
+  border-radius: px;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 18px;
   transition: transform 0.2s ease;
   margin-left: 10px;
+  margin-top: 40px;
 }
 
 #send-button:active {
@@ -108,7 +111,7 @@ body {
 /* Responsividade */
 @media (max-width: 600px) {
   .chat-container {
-    max-width: 90%;
+    max-width: 95%;
   }
   #message-input {
     font-size: 10px;
