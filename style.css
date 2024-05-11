@@ -2,7 +2,7 @@
 :root {
   --primary-color: #acf9ff; /* Azul claro para usuário */
   --secondary-color: #acffcf; /* Verde claro para professor */
-  --background-color: #ffe883a8; /* Fundo suave */
+  --background-color: #2c07b3cc; /* Fundo suave */
   --shadow-color: rgba(0, 0, 0, 0.1); /* Sombra sutil */  
   --border-radius: 10px; /* Borda arredondada padrão */
 }
