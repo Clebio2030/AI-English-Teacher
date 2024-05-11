@@ -17,6 +17,8 @@ body {
 }
 
 .chat-container {
+  display: flex;
+  flex-direction: column;
   max-width: 98%;
   height: 100%;
   margin: 10px auto;
@@ -38,6 +40,13 @@ body {
 .chat-body {
   overflow-y: scroll;
   padding: 15px; 
+}
+
+.chat-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
 }
 
 #chat-messages {
