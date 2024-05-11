@@ -6,21 +6,24 @@
 
 #### **1- Mensagem inicial de boas da nossa professora Mari.** <h4>
 
-![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/c43dfee4-69d2-4fb8-81bc-cec7ee71dc35)
+![20240510_232210](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/679ca58f-7442-4d0b-8428-90ae89152bd4)
 
 ####  **2- Basta digitar a sua música e o nome do cantor:** <h4>
 
-![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/1fdafbc4-ce09-4169-99a2-169c517cab3c)
+![20240510_232300](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/7270b657-394a-444d-8eee-91655394cbf3)
 
 
   - Aprenda Tradução de trechos da música.
   - Aprenda expressões culturas ou metafóricas usadas. 
-  - Link para você ouvir a música no youtube
-  - Pergunta qualquer coisa sobre a música ou peça mais trechos da mesma música.
+  - Link para você ouvir a música no youtube.
+  - Pergunta qualquer curiosidade sobre a música ou peça mais trechos da mesma música.
+
 
 ####  **3- Acesse do seu celular e tenha a experiência na palma da sua mão.** <h4>
 
-![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/a1f8d88f-abf0-4cf8-95f7-e5d4b65efb96)![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/6d40c119-742d-435a-b562-6ea92ccd4368)
+![20240510_232514](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/65be721d-f080-47f3-815e-42a164ddc185)![20240510_232622](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/37ece23d-a499-4785-9663-9f92e5db7162)
+
+
 
 >[!Links necessários]
 >
