@@ -32,6 +32,8 @@
 >* [Google AI Studio] (https://aistudio.google.com/app)
 
 <br>
+<br>
+<br>
 
 > [!NOTE]
 > Desafio de Projeto da Imersão IA da Alura + Google  :v:
