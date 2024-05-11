@@ -26,7 +26,7 @@
 
 <br>
 
->[!Links necessários]
+### **> Links necessários** <h3>
 >
 >* [API Gemini na Web](https://ai.google.dev/gemini-api/docs/get-started/web?hl=pt-br)
 >* [Google AI Studio](https://aistudio.google.com/app)
