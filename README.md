@@ -4,11 +4,11 @@
 
 ### *Aprenda suas músicas em inglês: :star:* [Clique aqui e converse com a Professora Mari](https://ai-english-teacher-liard.vercel.app/)  <h3>
 
-**1- Mensagem inicial de boas da nossa professora Mari.**
+#### **1- Mensagem inicial de boas da nossa professora Mari.** <h4>
 
 ![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/c43dfee4-69d2-4fb8-81bc-cec7ee71dc35)
 
-**2- Basta digitar a sua música e o nome do cantor:**
+####  **2- Basta digitar a sua música e o nome do cantor:** <h4>
 
 ![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/1fdafbc4-ce09-4169-99a2-169c517cab3c)
 
@@ -18,7 +18,7 @@
   - Link para você ouvir a música no youtube
   - Pergunta qualquer coisa sobre a música ou peça mais trechos da mesma música.
 
-**3- Acesse do seu celular e tenha a experiência na palma da sua mão.**
+####  **3- Acesse do seu celular e tenha a experiência na palma da sua mão.** <h4>
 
 ![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/a1f8d88f-abf0-4cf8-95f7-e5d4b65efb96)![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/6d40c119-742d-435a-b562-6ea92ccd4368)
 
