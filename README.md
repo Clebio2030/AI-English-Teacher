@@ -22,5 +22,11 @@
 
 ![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/a1f8d88f-abf0-4cf8-95f7-e5d4b65efb96)![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/6d40c119-742d-435a-b562-6ea92ccd4368)
 
+>[!Links necessários]
+>
+>* [API Gemini na Web](https://ai.google.dev/gemini-api/docs/get-started/web?hl=pt-br)
+>* [Google AI Studio] https://aistudio.google.com/app
+
+
 > [!NOTE]
 > Desafio de Projeto da Imersão IA da Alura + Google  :v:
