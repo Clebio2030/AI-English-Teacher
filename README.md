@@ -29,7 +29,7 @@
 >[!Links necessários]
 >
 >* [API Gemini na Web](https://ai.google.dev/gemini-api/docs/get-started/web?hl=pt-br)
->* [Google AI Studio] https://aistudio.google.com/app
+>* [Google AI Studio] (https://aistudio.google.com/app)
 
 
 > [!NOTE]
