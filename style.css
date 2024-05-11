@@ -6,13 +6,13 @@
   --shadow-color: rgba(0, 0, 0, 0.1); /* Sombra sutil */  
   --border-radius: 10px; /* Borda arredondada padrão */
 }
-
 /* Estilos gerais */
 body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
   width: 100%;
+  height: 750px;
   background-color: var(--background-color);
 }
 
@@ -37,7 +37,7 @@ body {
 
 .chat-body {
   overflow-y: scroll;
-  padding: 15px;
+  padding: 15px; 
 }
 
 #chat-messages {
@@ -67,18 +67,19 @@ body {
 }
 
 .chat-input {
-  padding:20px;
+  padding: 10px;
   display: flex;
+  align-items: center;
 }
 
 #message-input {
-  margin-top: 40px;
   flex-grow: 1;
   padding: 10px;
   border: 2px solid #6c5ae2;
   border-radius: 5px;
   font-size: 20px;
   transition: box-shadow 0.2s ease;
+  overflow-y: auto;
 }
 
 #message-input:focus {
@@ -90,12 +91,11 @@ body {
   background-color: #6c5ae2;
   color: #ffffff;
   border: none;
-  border-radius: 7px;
+  border-radius: 1px;
   cursor: pointer;
   font-size: 18px;
   transition: transform 0.2s ease;
-  margin-left: 10px;
-  margin-top: 40px;
+  margin-left: 10px; 
 }
 
 #send-button:active {
