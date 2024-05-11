@@ -6,11 +6,12 @@ Você quer aprender inglês? Cansado do ensino de inglês tradicional, chato e m
 
 **1- Mensagem inicial de boas da nossa professora Mari.**
 
-![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/9d8c8fe0-a344-4fd9-ac49-27db4d1cd38e)
+![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/c43dfee4-69d2-4fb8-81bc-cec7ee71dc35)
 
 **2- Basta digitar a sua música e o nome do cantor:**
 
-![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/62537fce-f1c3-4109-8452-5ae8e31e5c30)
+![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/1fdafbc4-ce09-4169-99a2-169c517cab3c)
+
 
   - Aprenda Tradução de trechos da música.
   - Aprenda expressões culturas ou metafóricas usadas. 
@@ -19,8 +20,7 @@ Você quer aprender inglês? Cansado do ensino de inglês tradicional, chato e m
 
 **3- Acesse do seu celular e tenha a experiência na palma da sua mão.**
 
-![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/e9b93ac8-407c-4f0f-bbc0-7a36246f0b12)
-
+![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/a1f8d88f-abf0-4cf8-95f7-e5d4b65efb96)
 
 > [!NOTE]
-> Projeto da Imersão IA da Alura + Google  :v:
+> Desafio de Projeto da Imersão IA da Alura + Google  :v:
