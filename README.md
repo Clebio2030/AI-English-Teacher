@@ -33,7 +33,6 @@
 
 <br>
 <br>
-<br>
 
 > [!NOTE]
 > Desafio de Projeto da Imersão IA da Alura + Google  :v:
