@@ -1,8 +1,8 @@
 # *Converse com  uma professora de inglês que te ensina com músicas. Você irá aprender de um jeito muito divertido e prático. Acesse o site agora mesmo e aprendar inglês com música.** :musical_note: :musical_score: <h1>
 
-# Você quer aprender inglês? Cansado do ensino de inglês tradicional, chato e metódico? Que tal aprender de um jeito divertido e prático com músicas? Com-certeza, né? Apresento a **professora de inglês Mari** sua inteligência artificial te guia no aprendizado de inglês através da musica! 	:star2: <h3>
+## Você quer aprender inglês? Cansado do ensino de inglês tradicional, chato e metódico? Que tal aprender de um jeito divertido e prático com músicas? Com-certeza, né? Apresento a **professora de inglês Mari** sua inteligência artificial te guia no aprendizado de inglês através da musica! 	:star2: <h2>
 
-# *Aprenda suas músicas em inglês: :star:* [Clique aqui e converse com a Professora Mari](https://ai-english-teacher-liard.vercel.app/)  <h4>
+### *Aprenda suas músicas em inglês: :star:* [Clique aqui e converse com a Professora Mari](https://ai-english-teacher-liard.vercel.app/)  <h3>
 
 **1- Mensagem inicial de boas da nossa professora Mari.**
 
