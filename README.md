@@ -2,7 +2,7 @@
 
 # Você quer aprender inglês? Cansado do ensino de inglês tradicional, chato e metódico? Que tal aprender de um jeito divertido e prático com músicas? Com-certeza, né? Apresento a **professora de inglês Mari** sua inteligência artificial te guia no aprendizado de inglês através da musica! 	:star2: <h3>
 
-# *Acesse o link para aprender: :star:* [Clique aqui e converse com a Professora Mari](https://ai-english-teacher-liard.vercel.app/)  <h4>
+# *Aprenda suas músicas em inglês: :star:* [Clique aqui e converse com a Professora Mari](https://ai-english-teacher-liard.vercel.app/)  <h4>
 
 **1- Mensagem inicial de boas da nossa professora Mari.**
 
