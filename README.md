@@ -21,7 +21,8 @@
 
 ####  **3- Acesse do seu celular e tenha a experiência na palma da sua mão.** <h4>
 
-![20240510_232514](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/65be721d-f080-47f3-815e-42a164ddc185)![20240510_232622](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/37ece23d-a499-4785-9663-9f92e5db7162)
+
+![20240510_232834](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/44365975-2a47-46f6-8f0b-89a3580a1657)
 
 
 
