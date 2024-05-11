@@ -11,6 +11,7 @@ Você quer aprender inglês? Cansado do ensino de inglês tradicional, chato e m
 **2- Basta digitar a sua música e o nome do cantor:**
 
 ![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/1fdafbc4-ce09-4169-99a2-169c517cab3c)
+![image](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/6d40c119-742d-435a-b562-6ea92ccd4368)
 
 
   - Aprenda Tradução de trechos da música.
