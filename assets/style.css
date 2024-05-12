@@ -62,6 +62,8 @@ img {
   list-style: none;
   padding: 0;
   font-size: 16px;
+  display: flex;
+  flex-direction: column;
 }
 
 .message {
@@ -71,6 +73,8 @@ img {
   line-height: 1.5;
   animation: fadeIn 0.3s ease-in;
   box-shadow: 2px 2px 5px var(--shadow-color);
+  max-width: 90%; 
+  display: inline-block; 
 }
 
 .user-message {
@@ -83,6 +87,7 @@ img {
   background-color: var(--secondary-color);
   border-bottom-left-radius: 0;
   font-weight: 600;
+  align-self: flex-start;
 }
 
 .chat-input {
