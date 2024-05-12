@@ -22,7 +22,6 @@
 
   - Aprenda Tradução de trechos da música.
   - Aprenda expressões culturas ou metafóricas usadas. 
-  - Link para você ouvir a música no youtube.
   - Pergunta qualquer curiosidade sobre a música ou peça mais trechos da mesma música.
 
 
