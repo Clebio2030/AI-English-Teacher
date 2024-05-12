@@ -11,7 +11,6 @@ const generationConfig = {
 const model = genAI.getGenerativeModel({ 
     model: "gemini-pro",
     generationConfig,
-
   }); 
 
 // Inicia a conversa
@@ -54,12 +53,17 @@ async function sendMessage(messageText) {
     const result = await chat.sendMessage(messageText);
     const response = await result.response;
     const teacherMessage = response.text();
-    appendMessage("teacher", teacherMessage);
+
+    // Formata a mensagem do professor antes de exibir
+    const formattedMessage = formatTeacherMessage(teacherMessage);
+    appendMessage("teacher", formattedMessage); 
   } catch (error) {
     console.error("Erro ao enviar mensagem:", error);
     // Exibir uma mensagem de erro para o usuário
   }
 }
+
+
 
 // Enviar mensagem automática "Olá" e obter a resposta
 (async () => {
@@ -73,6 +77,17 @@ async function sendMessage(messageText) {
 
   await sendMessage(introMessage); 
 })();
+
+// Função para formatar a mensagem do professor
+function formatTeacherMessage(message) {
+  // 1. Remover asteriscos
+  message = message.replace(/\*/g, '');
+
+  // 2. Adicionar quebras de linha antes de listas numeradas 
+  message = message.replace(/\n(\d+\.\s)/g, '\n\n$1'); 
+
+  return message;
+}
 
 // Evento de clique no botão "Enviar"
 sendButtonEl.addEventListener("click", () => {
