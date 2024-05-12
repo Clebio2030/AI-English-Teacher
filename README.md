@@ -14,8 +14,11 @@
 
 **2- Basta digitar a sua música e o nome do cantor:**
 
-![20240510_232300](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/7270b657-394a-444d-8eee-91655394cbf3)
+<br>
 
+![20240511_211645](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/5da6b93b-b18b-4202-b5c7-c0c437c54de0)
+
+<br>
 
   - Aprenda Tradução de trechos da música.
   - Aprenda expressões culturas ou metafóricas usadas. 
