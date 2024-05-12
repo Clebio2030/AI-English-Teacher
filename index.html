@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Professora de Inglês com música (IA)</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Inglês com música - IA</title>
+  <link rel="stylesheet" href="/assets/style.css">
 
   <!-- Import Map para a biblioteca @google/generative-ai -->
   <script type="importmap">
@@ -14,21 +14,23 @@
       }
     }
   </script>
-  <script type="module" src="script.js"></script> 
+  <script type="module" src="assets/script.js"></script> 
 </head>
 <body>
+  <div class="chat-header">
+    <a href="index.html"><img src="assets/teacher.svg" alt="Professora mulher negra de óculos e blazer verde, segura um caderno azul e uma caneta, com ar pensativo."></a>   
+   <h1> Aprenda inglês com música 🎵</h1> <div> </div>
+  </div>
   <div class="chat-container">
-    <div class="chat-header">
-      <h1>Aprenda Inglês com Música 🎶🎵</h1>
-    </div>
     <div class="chat-content">
       <div class="chat-body">
         <ul id="chat-messages">
         </ul>
       </div>
       <div class="chat-input">
-        <input type="text" id="message-input" placeholder="Digite sua música para aprender inglês...">
-        <button id="send-button">Enviar</button>
+        <input type="text" id="message-input" placeholder="Digite sua música..."> 
+        <button id="trash-button">🗑️</button> 
+        <button id="send-button">Enviar</button> </div>
     </div>
   </div>
 </body>
