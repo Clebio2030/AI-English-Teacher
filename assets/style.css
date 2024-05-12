@@ -169,24 +169,18 @@ img:hover {
 }
 
 @media (max-height: 590px) {
-  .chat-body {
-    height: 100px;
-  }
+  body {
+    height:320px;
+   }
 }
 
 @media (min-height: 600px) {
-  .chat-body {
-    height: 350px;
-  }
   body {
-    height:550px;
+    height:500px;
    }
 }
 
 @media (min-height: 700px) {
-  .chat-body {
-    height: 480px; 
-  }
   body {
     height: 600px;
    }
