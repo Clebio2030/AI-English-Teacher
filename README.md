@@ -6,7 +6,11 @@
 
 **1- Mensagem inicial de boas da nossa professora Mari.**
 
-![20240510_232210](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/679ca58f-7442-4d0b-8428-90ae89152bd4)
+<br>
+
+![20240511_211148](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/0925e7db-ef3e-4f33-8087-5c2f937d80a4)
+
+<br>
 
 **2- Basta digitar a sua música e o nome do cantor:**
 
