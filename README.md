@@ -8,7 +8,7 @@
 
 <br>
 
-![20240511_211148](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/0925e7db-ef3e-4f33-8087-5c2f937d80a4)
+![20240511_211347](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/a37e6876-5ea3-48ad-bf30-8d8b72b9ce7d)
 
 <br>
 
