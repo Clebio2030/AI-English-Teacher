@@ -8,7 +8,8 @@
 
 <br>
 
-![20240511_211538](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/c19348a4-8307-4305-b236-054eb0c9aa72)
+![Desktop](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/c4f91f7e-520b-404f-8b6c-6a7bf566abe1)
+
 
 <br>
 
@@ -16,7 +17,7 @@
 
 <br>
 
-![20240511_211645](https://github.com/Clebio2030/AI-English-Teacher/assets/134241152/5da6b93b-b18b-4202-b5c7-c0c437c54de0)
+
 
 <br>
 
